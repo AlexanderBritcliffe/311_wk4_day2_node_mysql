@@ -23,5 +23,5 @@ body: {first_name: "newuser",last_name:"was inserted"}
 // userController.getAllUsers(mockRequest,mockResponse);
 // userController.getUserById(mockRequest,mockResponse);
 //userController.createUser(mockRequest,mockResponse);
-//userController.updateUserById(mockRequest,mockResponse);
+userController.updateUserById(mockRequest,mockResponse);
 //userController.deleteUserByFirstName(mockRequest,mockResponse);
